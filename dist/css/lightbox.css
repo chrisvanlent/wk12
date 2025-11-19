@@ -196,6 +196,6 @@ body.lb-disable-scrolling {
 
 /* Student Addition */
 
-href data-title {
-  font-size: 300%;
+.lb-data .lb-caption {
+  font-size: 200%;
 }
