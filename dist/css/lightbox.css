@@ -146,7 +146,7 @@ body.lb-disable-scrolling {
 
 .lb-data {
   padding: 0 4px;
-  color: #ccc;
+  color: #ffffff;
 }
 
 .lb-data .lb-details {
@@ -194,8 +194,3 @@ body.lb-disable-scrolling {
   opacity: 1;
 }
 
-/* Student Addition */
-
-.lb-data .lb-caption {
-  font-size: 200%;
-}
