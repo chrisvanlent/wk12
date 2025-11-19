@@ -182,3 +182,15 @@ button:hover {
   background-color: black;
 
 }
+
+.lb-nav a.lb-prev {
+
+  background: url(../dist/images/dogLeft.png) left 48% no-repeat;
+
+}
+
+.lb-nav a.lb-next {
+
+  background: url(../dist/images/dogRight.png) right 48% no-repeat;
+
+}
